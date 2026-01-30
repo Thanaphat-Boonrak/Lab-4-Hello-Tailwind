@@ -32,7 +32,7 @@ import note from "./assets/note.jpg"
            <ProfileCard
       :profileimg="note"
       :background="profileimg"
-      name="Sakdichot"
+      name="Chayanon"
       subheading="Student, 20 , BKK"
       :followers="200000"
       :following="3213123"
