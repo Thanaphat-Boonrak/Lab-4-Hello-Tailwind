@@ -17,6 +17,7 @@ import note from "./assets/note.jpg"
       :followers="1"
       :following="100000"
       :projects="50"
+      ig="https://www.instagram.com/tthana.pphat/"
     />
 
         <ProfileCard
@@ -27,6 +28,7 @@ import note from "./assets/note.jpg"
       :followers="200000"
       :following="123"
       :projects="100"
+      ig="https://www.instagram.com/pxn_hxn/"
     />
 
            <ProfileCard
@@ -37,6 +39,7 @@ import note from "./assets/note.jpg"
       :followers="200000"
       :following="3213123"
       :projects="50"
+      ig="https://www.instagram.com/x7matt/"
     />
   </div>
 </template>
